@@ -1375,3 +1375,4 @@ The prototype focuses on order visibility, inventory accuracy, picking
 verification, shipping visibility, and operational issue tracking while
 remaining intentionally simple enough to demonstrate within a short
 walkthrough.
+walkthrough.
